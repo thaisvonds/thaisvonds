@@ -1,8 +1,9 @@
 ## Bem-vindo(a) ao perfil da Thais 😁
 
-![Thais GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaisvonds&show_icons=true&theme=tokyonight)
+![Thais GitHub Stats](https://github-readme-stats-topaz-one-24.vercel.app/api?username=thaisvonds&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisvonds&layout=compact&langs_count=6&theme=cobalt)
+![Top Langs](https://github-readme-stats-topaz-one-24.vercel.app/api/top-langs/?username=thaisvonds&layout=compact&langs_count=6&theme=cobalt)
+
 
 
     
